@@ -1,6 +1,7 @@
 # Projeto: Controle de LEDs e Interrupções no RP2040
 
 ✅ Arquivo principal: contagem.cEste é o arquivo de código-fonte principal, responsável por toda a lógica do projeto.
+LINK PARA O VIDEO: https://drive.google.com/file/d/112RPZxfNl2eGeJhdbiZ_jjlUYYv7CcBs/view?usp=drivesdk
 
 ## 📋 Descrição do Projeto
 Este projeto tem como objetivo consolidar conceitos de interrupções em microcontroladores, debouncing de botões, e controle de LEDs comuns e endereçáveis WS2812 utilizando a placa de desenvolvimento BitDogLab e o microcontrolador RP2040.
