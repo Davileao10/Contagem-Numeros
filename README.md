@@ -1,6 +1,6 @@
 # Projeto: Controle de LEDs e Interrupções no RP2040
 
-✅ Arquivo principal: contagem.cEste é o arquivo de código-fonte principal, responsável por toda a lógica do projeto.
+✅ Arquivo principal: contagem.c .Este é o arquivo de código-fonte principal, responsável por toda a lógica do projeto.
 LINK PARA O VIDEO: https://drive.google.com/file/d/112RPZxfNl2eGeJhdbiZ_jjlUYYv7CcBs/view?usp=drivesdk
 
 ## 📋 Descrição do Projeto
