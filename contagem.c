@@ -108,7 +108,7 @@ static inline void put_pixel(uint32_t pixel_grb) {
 }
 
 void display_numeros(int numero) {
-    uint32_t color = urgb_u32(100, 0, 0);
+    uint32_t color = urgb_u32(120, 0, 120);
     for (int i = 0; i < NUM_PIXELS; i++) {
         put_pixel(numeros[numero][i] ? color : 0);
     }
